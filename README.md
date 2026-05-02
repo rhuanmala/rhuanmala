@@ -1,5 +1,5 @@
 # <img width="32"  src="https://github.com/user-attachments/assets/8377b5c8-d41e-45a4-967f-c3fdab4d7bcb" style="vertical-align: middle;"/> Olá, eu sou o Rhuan!
-- <img width="32" height="32" src="https://github.com/user-attachments/assets/01f97af4-fa00-4293-89ed-05c9deabfc2b" style="vertical-align: middle;"/> Estudante de Desenvolvimento de Sistemas
+- <img width="32" src="https://github.com/user-attachments/assets/01f97af4-fa00-4293-89ed-05c9deabfc2b" style="vertical-align: middle;"/> Estudante de Desenvolvimento de Sistemas
 - <img width="32"  src="https://github.com/user-attachments/assets/0e50eaee-4603-407a-a16a-aff08b0ba630" style="vertical-align: middle;"/> Focado em Python <img width="24"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="vertical-align: middle;"/>, HTML <img width="24"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="vertical-align: middle;"/> e CSS <img width="24"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="vertical-align: middle;"/>
 
 - <img width="32"  src="https://github.com/user-attachments/assets/0da9320b-9cc9-465c-a49a-a4044904fff0" style="vertical-align: middle;"/> Construindo meu caminho na área de tecnologia
